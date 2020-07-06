@@ -63,6 +63,8 @@ C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.Micr
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.dll
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Newtonsoft.Json.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Owin.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.Helpers.dll
@@ -73,6 +75,7 @@ C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.WebPages.Deployme
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.WebPages.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\WebGrease.dll
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.pdb
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.Helpers.xml
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.Mvc.xml
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\System.Web.Optimization.xml
@@ -96,11 +99,8 @@ C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.Twit
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
-C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\myxr.csprojAssemblyReference.cache
+C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\myxr.csproj.CoreCompileInputs.cache
+C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\myxr.csproj.CopyComplete
 C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.dll
-C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.dll
-C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.pdb
