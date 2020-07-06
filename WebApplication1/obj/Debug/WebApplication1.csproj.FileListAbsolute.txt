@@ -104,3 +104,8 @@ C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.pdb
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.dll
 C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.AspNet.Identity.pdb
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.xml
+C:\Users\Lida\source\repos\myxr\WebApplication1\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.Migrations.farmacies.resources
+C:\Users\Lida\source\repos\myxr\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
