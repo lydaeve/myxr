@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using myxr.Models;
+using WebApplication1.Models;
 
-namespace myxr
+namespace WebApplication1
 {
     public partial class Startup
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(myxr.Startup))]
-namespace myxr
+[assembly: OwinStartupAttribute(typeof(WebApplication1.Startup))]
+namespace WebApplication1
 {
     public partial class Startup
     {

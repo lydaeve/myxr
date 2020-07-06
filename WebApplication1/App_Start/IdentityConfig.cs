@@ -9,9 +9,9 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MySql.AspNet.Identity;
-using myxr.Models;
+using WebApplication1.Models;
 
-namespace myxr
+namespace WebApplication1
 {
     public class EmailService : IIdentityMessageService
     {
