@@ -17,5 +17,6 @@ namespace WebApplication1.Models
             this.Configuration.ValidateOnSaveEnabled = false;
         }
         public DbSet<Farmacies> Farmacies { get; set; }
+        public DbSet<Sucursal> Sucursals { get; set; }
     }
 }

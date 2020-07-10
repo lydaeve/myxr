@@ -1,14 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 namespace WebApplication1.Models
 {
-    [Table("sucursals")]
-    public class Sucursal
+    public class SucursalsViewModel
     {
+        public SucursalsViewModel()
+        {
+
+        }
+        public SelectList FarmaciesList { get; set; }
+
+        [Required(ErrorMessage = "Seleccione al menos una opcion")]
+        public int? FarmaciesId { get; set; }
+
+        public Farmacies Frarmacies { get; set; }
+
         public int Id { get; set; }
 
         public string Adresss1 { get; set; }
@@ -25,6 +36,8 @@ namespace WebApplication1.Models
 
         public string ContactName { get; set; }
 
-        public int? StoreId { get; set; } //identificador de sucursales
+        public int? StoreId { get; set; }
+
+
     }
 }

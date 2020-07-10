@@ -184,6 +184,7 @@
     <Compile Include="Controllers\FarmaciesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\SucursalsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -198,7 +199,10 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MySqlCon.cs" />
     <Compile Include="Models\Sucursal.cs" />
+    <Compile Include="Models\SucursalsViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\Interfaces\IGenericRepository.cs" />
+    <Compile Include="Repositories\Persistance\GenericRepository.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -264,9 +268,15 @@
     <Content Include="Views\Farmacies\Details.cshtml" />
     <Content Include="Views\Farmacies\Edit.cshtml" />
     <Content Include="Views\Farmacies\Index.cshtml" />
+    <Content Include="Views\Sucursals\Create.cshtml" />
+    <Content Include="Views\Sucursals\Delete.cshtml" />
+    <Content Include="Views\Sucursals\Details.cshtml" />
+    <Content Include="Views\Sucursals\Edit.cshtml" />
+    <Content Include="Views\Sucursals\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Default\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
